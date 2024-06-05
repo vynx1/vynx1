@@ -42,7 +42,7 @@ Welcome to my GitHub profile. I'm a passionate developer with experience in web 
 - **SQLite**: Stored uploaded images and detection results.
 - **Machine Learning**: Used pre-trained models to identify famous places from images.
 
-[[View Project]](https://github.com/Harkirat47/BackendTri3)
+[View Project](https://github.com/iwu78/PBL_Backend)
 
 ## Get in Touch
 
