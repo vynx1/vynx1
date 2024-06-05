@@ -44,6 +44,8 @@ Welcome to my GitHub profile. I'm a passionate developer with experience in web 
 
 [View Project](https://github.com/iwu78/PBL_Backend)
 
+[View our SCRUM Board](https://github.com/users/Harkirat47/projects/1/views/1)
+
 ## Get in Touch
 
 Feel free to reach out to me via [[LinkedIn]](https://www.linkedin.com/in/shubhay-choubey-17b78a272/)
